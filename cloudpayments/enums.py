@@ -96,6 +96,7 @@ class Currency(object):
     USD = 'USD'
     EUR = 'EUR'
     GBP = 'GBP'
+    KZT = 'KZT'
 
 
 class Interval(object):
